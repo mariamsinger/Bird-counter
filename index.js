@@ -14,7 +14,7 @@ function save() {
     count = 0
 }
 function reset() {
-    saveEl.textContent = "Previous counts: "
+    saveEl.textContent = "SAVED COUNTS: "
     countEl.textContent = 0
     count = 0
 }

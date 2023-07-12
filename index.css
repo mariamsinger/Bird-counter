@@ -1,4 +1,5 @@
 body {
+    display: grid;
     background-image: url("birb.png");
     background-size: cover;
     font-family: 'Lucida Sans', Arial, sans-serif;
@@ -9,8 +10,9 @@ body {
 .container {
     border: 4px solid palevioletred;
     border-radius: 10px;
-    margin: 100px auto;
-    max-width: 80%;
+    padding: 10px;
+    margin: auto;
+    max-width: 60%;
 }
 
 p {
