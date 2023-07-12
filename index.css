@@ -4,9 +4,6 @@ body {
     font-family: 'Lucida Sans', Arial, sans-serif;
     font-weight: bold;
     text-align: center;
-    height: 100vh;
-    overflow-y: hidden;
-
 }
 
 .container {
